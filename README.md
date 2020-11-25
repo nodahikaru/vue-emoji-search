@@ -2,7 +2,7 @@
 
 A simple emoji search tool made with ReactJS.
 
-![[Imgur](https://i.imgur.com/XQtbIhJ.png)
+![Imgur](https://i.imgur.com/XQtbIhJ.png)
 
 ---
 
