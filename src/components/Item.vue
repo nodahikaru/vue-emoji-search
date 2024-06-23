@@ -44,12 +44,11 @@ export default {
 .item {
   position: relative;
   width: 100px;
-  height: 180px;
+  height: 120px;
   background: white;
   margin: 15px;
   padding: 20px;
   border-radius: 12px;
-  box-shadow: -5px -5px 15px #ffffff99, 5px 5px 15px #142b4711;
   display: flex;
   align-items: center;
   justify-content: space-around;
